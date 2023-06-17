@@ -1,6 +1,6 @@
 # Alessandro Abati's Personal Website
 
-This repository contains the source code and content for Alessandro Abati's personal website, which is hosted at [https://alessandroabati.github.io](https://alessandroabati.github.io).
+This repository contains the source code and content for Alessandro Abati's personal website, which is hosted at [https://alessandroabati.github.io].
 
 ## About
 
