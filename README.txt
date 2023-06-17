@@ -1,34 +1,33 @@
-Read Only by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Alessandro Abati's Personal Website
 
+This repository contains the source code and content for Alessandro Abati's personal website, which is hosted at [https://alessandroabati.github.io].
 
-Just a super simple single-page responsive template built for personal sites and portfolios
-(although it'd definitely work for other stuff too). Includes a contact form, pre-styled
-elements, and Sass sources.
+## About
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+Alessandro Abati's personal website serves as a portfolio and a showcase of his work, projects, and interests. It provides information about his background, skills, and accomplishments, as well as contact details and links to his social media profiles.
 
-(* = Not included)
+The website is heavily based on the HTML5 UP! website template, a collection of responsive and stylish website templates created by [AJ](https://aj.lkn.io). The template used for this personal website provides a modern and visually appealing design, with smooth scrolling and various sections for organizing content.
 
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
+## Repository Structure
 
-AJ
-aj@lkn.io | @ajlkn
+The repository has the following directory structure:
 
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
+- `index.html`: The main HTML file that serves as the entry point for the website.
+- `css/`: Directory containing the CSS stylesheets used for styling the website.
+- `js/`: Directory containing JavaScript files for any interactive functionality on the website.
+- `img/`: Directory for storing image files used on the website.
+- `fonts/`: Directory for storing custom font files, if any.
+- `LICENSE`: The license file for the repository.
+- `README.md`: This file providing information about the repository.
 
+## Contributing
 
-Credits:
+Contributions to this project are not currently accepted, as it is a personal website heavily based on the HTML5 UP! template. However, feedback and suggestions are always welcome. If you have any comments or ideas specific to the content or customization of the website, please feel free to reach out to Alessandro Abati directly.
 
-	Demo Images:
-		Unsplash (unsplash.com)
+## Contact
 
-	Icons:
-		Font Awesome (fontawesome.io)
+If you have any questions or inquiries regarding Alessandro Abati's personal website, you can reach out to him directly through the contact information provided on the website.
 
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+---
+
+Thank you for visiting the repository and taking an interest in Alessandro Abati's personal website!
