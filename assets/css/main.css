@@ -2310,6 +2310,8 @@ input, select, textarea {
 				-ms-flex-shrink: 1;
 				flex-shrink: 1;
 				width: 100%;
+				margin-left: 3em;
+				margin-right: 3em;
 			}
 
 				ul.actions.fit li > * {
@@ -2359,6 +2361,7 @@ input, select, textarea {
 					ul.actions:not(.fixed) li button,
 					ul.actions:not(.fixed) li .button {
 						width: 100%;
+						margin-right: 3em;
 					}
 
 						ul.actions:not(.fixed) li input[type="submit"].icon:before,
