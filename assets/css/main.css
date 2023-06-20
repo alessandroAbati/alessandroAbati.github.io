@@ -2310,8 +2310,6 @@ input, select, textarea {
 				-ms-flex-shrink: 1;
 				flex-shrink: 1;
 				width: 100%;
-				margin-left: 3em;
-				margin-right: 3em;
 			}
 
 				ul.actions.fit li > * {
