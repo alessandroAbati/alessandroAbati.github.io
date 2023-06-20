@@ -2345,6 +2345,8 @@ input, select, textarea {
 					padding: 1.125em 0 0 0;
 					text-align: center;
 					width: 100%;
+					margin-left: 3em;
+					margin-right: 3em;
 				}
 
 					ul.actions:not(.fixed) li > * {
